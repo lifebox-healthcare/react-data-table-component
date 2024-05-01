@@ -1,5 +1,5 @@
 {
-	"name": "react-data-table-component",
+	"name": "@lifebox/react-data-table-component",
 	"version": "999.9999.0",
 	"description": "A simple to use declarative react based data table",
 	"main": "dist/index.cjs.js",
